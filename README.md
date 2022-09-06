@@ -12,6 +12,8 @@ Be the first to form a horizontal, vertical, or diagonal line of four of one's o
 
 ## Game implementation.
 
+The main tools used for the game:
+
 * [Python](https://www.python.org/) : Programming Language used to implement the game as Python has so many powerful modules and libraries to create games.
 
 * [Turtle](https://docs.python.org/3/library/turtle.html) : enables users to create pictures and shapes by providing them with a virtual canvas. The onscreen pen that you use for drawing is called the turtle and this is what gives the library its name.
